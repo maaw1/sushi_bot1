@@ -1,1 +1,1 @@
-# sushi_bot1
+BOT_TOKEN=your_bot_token_here
